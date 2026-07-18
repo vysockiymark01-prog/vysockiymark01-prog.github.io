@@ -1,8 +1,11 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.muzgramota.app",
-        "sha256_cert_fingerprints": ["4A:2A:FA:9C:B7:B6:02:1C:A4:7C:37:E1:50:10:67:97:A4:C4:79:D0:1A:E2:B5:A4:DA:03:60:4E:F8:DC:BB:7E"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.muzgramota.app",
+      "sha256_cert_fingerprints":
+        ["5B:6B:3B:4B:C5:60:63:DD:9B:A4:5F:07:F9:BE:50:A2:B7:F8:AD:7E:9B:F9:32:A6:73:8A:84:0B:1E:99:FD:DF"]
+    }
+  }
+]
