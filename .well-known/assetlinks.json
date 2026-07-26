@@ -4,8 +4,15 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.muzgramota.app",
-      "sha256_cert_fingerprints":
-        ["5B:6B:3B:4B:C5:60:63:DD:9B:A4:5F:07:F9:BE:50:A2:B7:F8:AD:7E:9B:F9:32:A6:73:8A:84:0B:1E:99:FD:DF"]
+      "sha256_cert_fingerprints": ["5B:6B:3B:4B:C5:60:63:DD:9B:A4:5F:07:F9:BE:50:A2:B7:F8:AD:7E:9B:F9:32:A6:73:8A:84:0B:1E:99:FD:DF"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.vysockiymark01_prog.twa",
+      "sha256_cert_fingerprints": ["CE:CF:B2:47:45:17:BA:C9:59:A7:BA:FE:9E:4A:4C:F5:73:DE:1B:30:A8:91:C7:41:08:9E:28:81:24:B3:02:CA"]
     }
   }
 ]
