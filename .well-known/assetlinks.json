@@ -12,7 +12,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01_prog.subscriptiontracker",
-      "sha256_cert_fingerprints": ["30:0B:E8:20:07:BA:1F:DE:F3:CF:70:C5:84:8D:C1:A6:B3:79:D5:1E:61:3E:CA:DE:80:F7:25:CC:14:EA:42:C0"]
+      "sha256_cert_fingerprints": [
+        "93:74:92:C6:E4:72:FE:B3:04:0D:5C:2B:C1:36:4F:AB:21:BD:59:5F:C1:10:A1:1A:C1:1B:FD:65:CC:F5:6C:A4",
+        "30:0B:E8:20:07:BA:1F:DE:F3:CF:70:C5:84:8D:C1:A6:B3:79:D5:1E:61:3E:CA:DE:80:F7:25:CC:14:EA:42:C0"
+      ]
     }
   }
 ]
