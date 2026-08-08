@@ -23,7 +23,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01_prog.chtoprigotovit",
-      "sha256_cert_fingerprints": ["86:13:C3:06:1C:DE:63:BF:43:C0:CC:91:2F:54:21:12:2D:22:F0:4A:14:33:26:EF:1C:FF:48:89:E7:50:F5:61"]
+      "sha256_cert_fingerprints": [
+        "9B:E3:6C:00:4A:FE:2C:BF:FC:A9:AE:8D:B4:8A:9B:D4:72:6B:8E:0A:7B:F3:4C:8B:EA:2F:DE:16:A6:73:DC:73",
+        "86:13:C3:06:1C:DE:63:BF:43:C0:CC:91:2F:54:21:12:2D:22:F0:4A:14:33:26:EF:1C:FF:48:89:E7:50:F5:61"
+      ]
     }
   }
 ]
