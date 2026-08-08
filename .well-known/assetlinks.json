@@ -11,8 +11,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.vysockiymark01_prog.twa",
-      "sha256_cert_fingerprints": ["CE:CF:B2:47:45:17:BA:C9:59:A7:BA:FE:9E:4A:4C:F5:73:DE:1B:30:A8:91:C7:41:08:9E:28:81:24:B3:02:CA"]
+      "package_name": "io.github.vysockiymark01_prog.subscriptiontracker",
+      "sha256_cert_fingerprints": ["30:0B:E8:20:07:BA:1F:DE:F3:CF:70:C5:84:8D:C1:A6:B3:79:D5:1E:61:3E:CA:DE:80:F7:25:CC:14:EA:42:C0"]
     }
   }
 ]
