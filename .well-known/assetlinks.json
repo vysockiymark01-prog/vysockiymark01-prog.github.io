@@ -39,5 +39,16 @@
         "4F:76:93:DC:F7:68:87:D2:B8:11:9E:03:2C:1A:9A:A9:38:64:E4:E3:60:F0:16:76:30:71:F9:EB:F0:E2:3D:A6"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.vysockiymark01prog.stepbeatgo",
+      "sha256_cert_fingerprints": [
+        "20:C1:6C:7E:27:07:AB:7E:A0:32:1D:F2:05:1B:F0:25:31:B9:AD:91:13:57:D1:42:F8:F7:C2:BD:99:A3:C4:54",
+        "A6:CD:B7:62:C8:2E:27:E9:C8:E9:DC:FF:BD:12:59:A6:93:35:EF:56:EC:E9:47:25:5D:55:40:D6:37:44:19:9E"
+      ]
+    }
   }
 ]
