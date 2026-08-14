@@ -1,14 +1,20 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.muzgramota.app",
-      "sha256_cert_fingerprints": ["5B:6B:3B:4B:C5:60:63:DD:9B:A4:5F:07:F9:BE:50:A2:B7:F8:AD:7E:9B:F9:32:A6:73:8A:84:0B:1E:99:FD:DF"]
+      "sha256_cert_fingerprints": [
+        "5B:6B:3B:4B:C5:60:63:DD:9B:A4:5F:07:F9:BE:50:A2:B7:F8:AD:7E:9B:F9:32:A6:73:8A:84:0B:1E:99:FD:DF"
+      ]
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01_prog.subscriptiontracker",
@@ -19,7 +25,9 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01_prog.chtoprigotovit",
@@ -30,7 +38,9 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01_prog.twa",
@@ -41,13 +51,27 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01prog.stepbeatgo",
       "sha256_cert_fingerprints": [
         "20:C1:6C:7E:27:07:AB:7E:A0:32:1D:F2:05:1B:F0:25:31:B9:AD:91:13:57:D1:42:F8:F7:C2:BD:99:A3:C4:54",
         "A6:CD:B7:62:C8:2E:27:E9:C8:E9:DC:FF:BD:12:59:A6:93:35:EF:56:EC:E9:47:25:5D:55:40:D6:37:44:19:9E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.vysockiymark01_prog.ktoprav",
+      "sha256_cert_fingerprints": [
+        "C0:6A:57:34:14:58:16:1C:82:9F:2A:C8:A2:25:9F:E7:4E:39:DD:0D:2F:01:DF:6F:88:E0:C4:FF:AA:E2:CD:F9"
       ]
     }
   }
