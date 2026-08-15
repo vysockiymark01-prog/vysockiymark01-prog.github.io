@@ -71,7 +71,8 @@
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01_prog.ktoprav",
       "sha256_cert_fingerprints": [
-        "C0:6A:57:34:14:58:16:1C:82:9F:2A:C8:A2:25:9F:E7:4E:39:DD:0D:2F:01:DF:6F:88:E0:C4:FF:AA:E2:CD:F9"
+        "C0:6A:57:34:14:58:16:1C:82:9F:2A:C8:A2:25:9F:E7:4E:39:DD:0D:2F:01:DF:6F:88:E0:C4:FF:AA:E2:CD:F9",
+        "29:0B:A4:D9:63:14:31:CA:73:2D:21:90:52:D2:4C:35:B9:5E:2E:63:5B:67:28:17:32:2B:60:FB:45:0C:AC:3E"
       ]
     }
   }
