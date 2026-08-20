@@ -97,7 +97,8 @@
       "namespace": "android_app",
       "package_name": "io.github.vysockiymark01_prog.rozamira",
       "sha256_cert_fingerprints": [
-        "BF:81:88:D6:8A:BD:20:FE:7B:D8:D2:2E:5F:1C:B1:0E:26:0E:8A:7B:67:A5:3F:49:7E:09:0B:7B:9D:69:BB:96"
+        "BF:81:88:D6:8A:BD:20:FE:7B:D8:D2:2E:5F:1C:B1:0E:26:0E:8A:7B:67:A5:3F:49:7E:09:0B:7B:9D:69:BB:96",
+        "67:B9:52:5F:AF:99:20:A6:2E:00:88:5A:51:0B:B8:9D:47:04:97:5A:24:42:90:A7:4E:EE:EC:5D:91:7C:FB:82"
       ]
     }
   }
